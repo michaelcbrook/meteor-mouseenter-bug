@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+
+.mouseme {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+
+.log {
+	margin-top: 10px;
+}
